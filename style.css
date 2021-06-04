@@ -1,0 +1,24 @@
+.title{
+    font-family: 'Roboto Condensed', sans-serif;
+text-align: center;
+align-self: center;
+margin: auto;
+  width: 50%;
+}
+
+input{
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    align-self: center;
+    margin: auto;
+    margin-left: auto;
+    }
+
+    .title2{
+        font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    align-self: center;
+    margin: auto;
+      width: 50%;
+      color: red;
+    }
